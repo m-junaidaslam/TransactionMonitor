@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="junaid.aslam.laindain.MainActivity" >
+
+    <item
+        android:id="@+id/add"
+        android:title="Add" />
+
+    <item
+        android:id="@+id/about"
+        android:title="About Us" />
+
+    <item
+        android:id="@+id/exportdb"
+        android:title="Export Database" />
+
+</menu>
